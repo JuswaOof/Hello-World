@@ -1,2 +1,6 @@
 # Hello-World
-my first repository
+
+
+Hello Everyone!
+
+I am Joshua Salcedo, currently studying this github thing
